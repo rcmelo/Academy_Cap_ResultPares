@@ -1,1 +1,1 @@
-# Academy_Cap_ResultPares
+Criado em Java, com IDE eclipse.
